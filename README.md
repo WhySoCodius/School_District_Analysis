@@ -25,7 +25,6 @@ After Replacing the compromised score wit NaN below is the summary the District
 - Percentage of Passing _Math_ dipped to 74.8
 - Percentage of Passing _Reading_ dipped to 85.7
 - Percentage of _Overall_ Passing dipped to 64.9
-- Overall ranking of the Thomas High School still remained the same at second position
 
 ![TopFiveSchools](/Resources/top_schools.png)
 
@@ -56,4 +55,7 @@ Based on the [Reading Score](/Resources/reading_scores_by_grade.png) and the [Ma
 
 ## Summary
 
-Thomas High School's total passing percentages and average scores plummeted after the ninth graders' scores were replaced with NaN. The district's average math and reading scores, as well as the total passing rate for kids, have all decreased.
+- Thomas High School's total passing percentages and average scores plummeted after the ninth graders' scores were replaced with NaN. 
+- The district's average math and reading scores, as well as the total passing rate for kids, have all decreased.
+- Thomas High School's overall passing percentage dropped from 91 percent to 65 percent.
+- The school ranking of Thomas High School has dropped from eighth to second.
